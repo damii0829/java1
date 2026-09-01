@@ -22,6 +22,7 @@ public class LABFigureScore {
 //
 //            System.out.printf("심사위원 평균 점수 : %5.2f",avg);
 //            s.close();
+
         Scanner s1 = new Scanner(System.in);
         int[] scoreArr = new int[5];
         int sum = 0;
