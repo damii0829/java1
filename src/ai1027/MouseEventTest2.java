@@ -46,6 +46,7 @@ public class MouseEventTest2 extends JFrame {
                 case "green":
                     color = Color.GREEN;
                     break;
+
             }
             lbl.setBackground(color);
         }
